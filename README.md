@@ -10,6 +10,8 @@ Notes on quantum computing
 
 [qiskit slack](https://qiskit.slack.com)
 
+[Shtetl-Optimized blog](https://www.scottaaronson.com/blog/) Very knowledgable perspectives.
+
 ### Big players, starting pages
 [IBM Q](https://www.ibm.com/quantum-computing)
 
@@ -19,7 +21,7 @@ Notes on quantum computing
 
 
 ## Textbooks, Education, Lectures
-[Quantum Country](https://quantum.country) An text on quantum computing, combined with a testing system which will attempt to fix the information as knowledge rather than lost in short-term memory.
+[Quantum Country](https://quantum.country) An text on quantum computing, combined with a testing system which will attempt to fix the information as knowledge rather than lost in short-term memory. This is article was my entry-point into quantum computing.
 
 [Quantum Computation and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_1?keywords=quantum+nielsen&qid=1578104389&s=books&sr=1-1) Not recommended, simply because it is a thorough college-level textbook. It is likely to be a waste of money and blunt your enthusiasm. The author is the same author of the simpler text above, so this book is proof that the Quantum Country text is a valid source. Presumably, if you really want to get deep into the subject, this would be a good source.
 
