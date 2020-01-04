@@ -34,4 +34,4 @@ Beyond Weird by Philip Ball ([Amazon link](https://www.amazon.com/Beyond-Weird-E
 - Work through all of the popular metaphors and frameworks and detail how these fall short or obscure our understanding.
 - Explain as much of the known quantum world as possible, while being clear about areas of uncertainty that we have to accept.
 
-Some 5-minute marketting videos from IBM. These aren't going to help anyone work on quantum computing, but they are short, cool, and inspiring with lots of interesting factoids around IBM's quantum computing physical plant. [7 minute intro to the physical computer, 2018](https://www.youtube.com/watch?v=b-0ZNlqaSBE) [6.5 minute overview, 2019](https://www.youtube.com/watch?v=QRaEvXF4YBg),
+Some 5-minute marketting videos from IBM. These aren't going to help anyone work on quantum computing, but they are short, cool, and inspiring with lots of interesting factoids around IBM's quantum computing physical plant: [7 minute intro to the physical computer, 2018](https://www.youtube.com/watch?v=b-0ZNlqaSBE), [6.5 minute overview, 2019](https://www.youtube.com/watch?v=QRaEvXF4YBg)
