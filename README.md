@@ -1,7 +1,7 @@
 # quantum-computing-notes
 Notes on quantum computing
 
-[Practical assessment of what quantum computing means to an average programmer](practical-assessment.md) This is on a separate page because, presumably, it will change at a different rate over time.
+[Practical assessment of what quantum computing means to an average programmer](practical-assessment.md) This is on a separate page because it will change at a different rate over time.
 
 ## Forums, Websites, Blogs
 [Reddit: Quantum](https://reddit.com/r/quantum)
