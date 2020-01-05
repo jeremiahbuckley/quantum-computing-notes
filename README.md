@@ -1,7 +1,7 @@
 # quantum-computing-notes
 Notes on quantum computing
 
-[Practical assessment of what quantum computing means to an average programmer](practical-assessment.md) This is on a separate page because it will change at a different rate over time.
+[Practical assessment of what quantum computing means to an average programmer.](practical-assessment.md) This is on a separate page because it will change at a different rate over time.
 
 ## Forums, Websites, Blogs
 [Reddit: Quantum](https://reddit.com/r/quantum)
@@ -14,12 +14,20 @@ Notes on quantum computing
 
 [Shtetl-Optimized blog](https://www.scottaaronson.com/blog/) Very knowledgable perspectives.
 
+[Quantum Scouting Report](https://quantumcomputingreport.com/)
+
 ### Big players, starting pages
 [IBM Q](https://www.ibm.com/quantum-computing)
 
 [Google Quantum Research](https://research.google/teams/applied-science/quantum/)
 
-[Microsoft Quantum Computing](https://www.microsoft.com/en-us/quantum/)
+[Rigetti](https://www.rigetti.com/)
+
+[Intel](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
+
+[IonQ](https://ionq.com/)
+
+[Microsoft Quantum Computing](https://www.microsoft.com/en-us/quantum/) Microsoft is a little behind the others in physical hardware, but pushing hard on the software side.
 
 
 ## Textbooks, Education, Lectures
