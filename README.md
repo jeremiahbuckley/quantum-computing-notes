@@ -29,6 +29,8 @@ Notes on quantum computing
 
 [Q# Quantum Computing Concepts](https://docs.microsoft.com/en-us/quantum/concepts/?view=qsharp-preview) Microsoft's documentation on Q# and Quantum Computing Concepts. This link goes to the Concepts part of the documetation. Again, well written, and useful on re-explaining concepts that benefit from lots of different re-explanation. At time of publication, it was easy, from this page, to browse to all of the other Q# documentation.
 
+[Linear Algebra resources](linear-algebra.md)
+
 ## Books
 Beyond Weird by Philip Ball ([Amazon link](https://www.amazon.com/Beyond-Weird-Everything-Thought-Different/dp/022655838X/ref=sr_1_1?keywords=beyond+weird&qid=1578099270&sr=8-1)) Recommended, but this book will not help anyone with quantum computing. Essentially, you can fully ignore the craziness of quantum theory, just focus on the math, and do quantum computing just fine. Most people going into this work are probably interested in quantum theory even if it isn't going to directly apply to their work. In that case, this is the book for you. It tackles quantum weirdnesses head-on and doesn't so much explain quantum mechanics as:
 - Work through all of the popular metaphors and frameworks and detail how these fall short or obscure our understanding.
